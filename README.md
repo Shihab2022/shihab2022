@@ -1,4 +1,3 @@
-![I am Web Developer](https://i.ibb.co/WHvzNny/best-20-web-development-blogs.png)
 ### Hi 👋,  Md Shihab Uddin
 #### I am Web Developer
 
