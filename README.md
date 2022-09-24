@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Redux and Express.js**
 
+- 👯 I’m looking to collaborate on [Pioneerflix](https://pioneerflix.firebaseapp.com/)
+
 - 👨‍💻 All of my projects are available at [https://shihab-uddin-48ccf.web.app/](https://shihab-uddin-48ccf.web.app/)
 
 - 💬 Ask me about **JavaScript, Node.js, React.js**
@@ -21,6 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shihab-uddin-4b6369241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shihab-uddin-4b6369241/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mdshihab.uddin.92372446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdshihab.uddin.92372446" height="30" width="40" /></a>
+<a href="https://discord.gg/#7608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7608" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,4 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shihab2022&show_icons=true&locale=en" alt="shihab2022" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shihab2022&" alt="shihab2022" /></p>
-
