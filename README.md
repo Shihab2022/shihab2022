@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shihab2022&label=Profile%20views&color=0e75b6&style=flat" alt="shihab2022" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihab2022" alt="shihab2022" /></a> </p>
+
 
 - 🌱 I’m currently learning **Redux and Express.js**
 
