@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Md Shihab uddin</h1>
 <h5 align="center"> I am passionate about building excellent website as if user fell better experience .</h3>
 
-💬 Ask me about **JavaScript, Node.js, React.js**
+- 💬 Ask me about **JavaScript, Node.js, React.js**
 
 - 🌱 I’m currently learning **Redux and Express.js**
 
 - 👯 I’m looking to collaborate on [Pioneerflix](https://pioneerflix.firebaseapp.com/)
 
-- 👨‍💻 All of my projects are available at [https://shihab-uddin-48ccf.web.app/](https://shihab-uddin-48ccf.web.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://shihab-uddin-48ccf.web.app/)
 
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AVhEON4sZzX5oolg1_bFzqEQ80Ew5S8D/view?usp=sharing)
+ 
 - 📫 How to reach me **uddinmdshihab452@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AVhEON4sZzX5oolg1_bFzqEQ80Ew5S8D/view?usp=sharing](https://drive.google.com/file/d/1AVhEON4sZzX5oolg1_bFzqEQ80Ew5S8D/view?usp=sharing)
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
