@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Shihab uddin</h1>
-<h3 align="center"> I am passionate about building excellent website as if user fell better experience .</h3>
+<!-- <h3 align="center"> I am passionate about building excellent website as if user fell better experience .</h3> -->
+<p>
+👑 I am Web Developer <br> 
+🖊️ Love to write code <br> 
+🎤 Like to share my knowledge </p> 
 
 - 💬 Ask me about **JavaScript, Node.js, React.js**
 
