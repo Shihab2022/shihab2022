@@ -101,21 +101,8 @@
 <p align="center"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimahammed" alt="fahimahammed"/> </p>
 <hr>
 
+<p><img width="350" height="200" align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=shihab2022&show_icons=true&locale=en&layout=compact" alt="shihab2022" /></p>
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihab2022&show_icons=true&locale=en&layout=compact" alt="shihab2022" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shihab2022&show_icons=true&locale=en" alt="shihab2022" /></p>
+<p>&nbsp;<img width="410" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=shihab2022&show_icons=true&locale=en" alt="shihab2022" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shihab2022&" alt="shihab2022" /></p>
