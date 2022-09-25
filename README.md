@@ -76,34 +76,27 @@
  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>  --> 
  </p>
 
+
+<p><img width="350" height="200" align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=shihab2022&show_icons=true&locale=en&layout=compact" alt="shihab2022" /></p>
+<p>&nbsp;<img width="410" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=shihab2022&show_icons=true&locale=en" alt="shihab2022" /></p>
+<!-- contribution graph.... -->
+<p><img src="https://activity-graph.herokuapp.com/graph?username=shihab2022" alt="shihab2022" /><p/>
+<p><img width="450" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shihab2022&" alt="shihab2022" /></p>
+<hr>
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+<a href="https://twitter.com/fahimahammedfi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahimahammedfi1" height="25" width="30" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shihab-uddin-4b6369241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shihab-uddin-4b6369241/" height="25" width="30" /></a>
+<a href="https://fb.com/https://www.facebook.com/mdshihab.uddin.92372446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdshihab.uddin.92372446" height="25" width="30" /></a>
+<!-- <a href="https://instagram.com/fahimahammed.cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahimahammed.cse" height="25" width="30" /></a> -->
+</p>
 <!-- <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shihab-uddin-4b6369241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shihab-uddin-4b6369241/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mdshihab.uddin.92372446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdshihab.uddin.92372446" height="30" width="40" /></a>
 <a href="https://discord.gg/#7608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7608" height="30" width="40" /></a>
 </p> -->
-
-<p><img width="350" height="200" align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=shihab2022&show_icons=true&locale=en&layout=compact" alt="shihab2022" /></p>
-
-<p>&nbsp;<img width="410" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=shihab2022&show_icons=true&locale=en" alt="shihab2022" /></p>
- 
-<!-- <p><img width="350" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimahammed&show_icons=true&locale=en&layout=compact" alt="fahimahammed" /></p> 
-
-<p>&nbsp;<img width="410" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=fahimahammed&show_icons=true&locale=en" alt="fahimahammed" /></p>  -->
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=fahimahammed)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-<!-- contribution graph.... -->
-
-<p><img src="https://activity-graph.herokuapp.com/graph?username=shihab2022" alt="shihab2022" /><p/>
-
-
-<!-- ![GitHub metrics](https://metrics.lecoq.io/fahimahammed)   -->
-<p><img width="450" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shihab2022&" alt="shihab2022" /></p>
-
-<!-- <p align="center"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimahammed" alt="fahimahammed"/> </p> -->
-<hr>
-
 
 
 
