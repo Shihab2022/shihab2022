@@ -3,7 +3,7 @@
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
-🎤 Like to share my knowledge </p> 
+🎤 Like to learn new technology </p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shihab2022&label=Profile%20views&color=0e75b6&style=flat" alt="shihab2022" /> </p>
 
@@ -90,9 +90,9 @@ Web Development Course from Programming Hero . Last two months I collaborated on
 <h2 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/fahimahammedfi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahimahammedfi1" height="25" width="30" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shihab-uddin-4b6369241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shihab-uddin-4b6369241/" height="25" width="30" /></a>
-<a href="https://fb.com/https://www.facebook.com/mdshihab.uddin.92372446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdshihab.uddin.92372446" height="25" width="30" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shihab-uddin-4b6369241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://linkedin.com/in/https://www.linkedin.com/in/shihab-uddin-4b6369241/" height="25" width="30" /></a>
+<a href="https://www.linkedin.com/in/shihab-uddin-4b6369241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shihab-uddin-4b6369241/" height="25" width="30" /></a>
+<a href="https://www.facebook.com/mdshihab.uddin.92372446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdshihab.uddin.92372446" height="25" width="30" /></a>
+<a href="https://www.linkedin.com/in/shihab-uddin-4b6369241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://linkedin.com/in/https://www.linkedin.com/in/shihab-uddin-4b6369241/" height="25" width="30" /></a>
 </p>
 
 
