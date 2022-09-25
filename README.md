@@ -8,14 +8,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shihab2022&label=Profile%20views&color=0e75b6&style=flat" alt="shihab2022" /> </p>
 
 <h2>🚀 About Me</h2> 
-<p>I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. </p>
+<p>I'm front-end developer focused on crafting clean and user friendly experience , I am passionate about building excellent website as if user fell better experience .I have extensive knowledge of HTML5, CSS3, Tailwind, Bootstrap, JavaScript, and React. And I have comfortable with MongoDB, Express Js, Node Js, Redux . I have combined work with us communication and problem-solving skills.In my current role as a Junior Web Developer at HTML5, CSS3, JavaScript, React
+Technologies. I am always  passionate about web development, which led me to pursue a Complete 
+Web Development Course from Programming Hero . Last two months I collaborated on a team project where maintain an official environment. </p>
 
 ## 👨‍💻 Skills & Experiance: 
-✅ WordPress <br> 
+✅ HTML5 <br> 
+✅ CSS3 <br>
 ✅ JavaScript <br>
-✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-✅ Photoshop / Illustrator <br>
+✅ React <br>
+✅ Tailwind  <br>
+✅  Bootstrap <br>
 
 
 
@@ -85,19 +88,13 @@
 
 
 <h2 align="center">Connect with me</h3>
-<hr>
 <p align="center">
 <a href="https://twitter.com/fahimahammedfi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahimahammedfi1" height="25" width="30" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shihab-uddin-4b6369241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shihab-uddin-4b6369241/" height="25" width="30" /></a>
 <a href="https://fb.com/https://www.facebook.com/mdshihab.uddin.92372446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdshihab.uddin.92372446" height="25" width="30" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shihab-uddin-4b6369241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://linkedin.com/in/https://www.linkedin.com/in/shihab-uddin-4b6369241/" height="25" width="30" /></a>
 </p>
-<!-- <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shihab-uddin-4b6369241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shihab-uddin-4b6369241/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mdshihab.uddin.92372446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdshihab.uddin.92372446" height="30" width="40" /></a>
-<a href="https://discord.gg/#7608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7608" height="30" width="40" /></a>
-</p> -->
+
 
 
 
