@@ -81,10 +81,10 @@
 <p>&nbsp;<img width="410" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=shihab2022&show_icons=true&locale=en" alt="shihab2022" /></p>
 <!-- contribution graph.... -->
 <p><img src="https://activity-graph.herokuapp.com/graph?username=shihab2022" alt="shihab2022" /><p/>
-<p><img width="450" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shihab2022&" alt="shihab2022" /></p>
+<p align="center"><img width="450" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shihab2022&" alt="shihab2022" /></p>
 
 
-<h3 align="center">Connect with me</h3>
+<h2 align="center">Connect with me</h3>
 <hr>
 <p align="center">
 <a href="https://twitter.com/fahimahammedfi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahimahammedfi1" height="25" width="30" /></a>
