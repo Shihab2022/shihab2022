@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Shihab uddin</h1>
+<h1 align="left">Hi 👋, I'm Md Shihab uddin</h1>
 <!-- <h3 align="center"> I am passionate about building excellent website as if user fell better experience .</h3> -->
 <p>
 👑 I am Web Developer <br> 
