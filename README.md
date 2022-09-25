@@ -17,8 +17,24 @@
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 ✅ Photoshop / Illustrator <br>
 
-<h2 align="left">Overview of uses elements</h3>
-<p align="left">
+
+
+<h2> ⚡ My Work</h2> 
+
+🌱 I’m currently learning **Redux and Express.js**
+
+👯 Recently I collaborate on [Pioneerflix](https://pioneerflix.firebaseapp.com/)
+
+👨‍💻 All of my projects are available at [Portfolio](https://shihab-uddin-48ccf.web.app/)
+
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AVhEON4sZzX5oolg1_bFzqEQ80Ew5S8D/view?usp=sharing)
+ 
+📫 How to reach me **uddinmdshihab452@gmail.com**
+
+
+
+<h2 align="center">Overview of uses elements</h3>
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
  </a> 
@@ -59,18 +75,6 @@
 <!--  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>  --> 
  </p>
-
-<h2> ⚡ My Work</h2> 
-
-- 🌱 I’m currently learning **Redux and Express.js**
-
-- 👯 Recently I collaborate on [Pioneerflix](https://pioneerflix.firebaseapp.com/)
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://shihab-uddin-48ccf.web.app/)
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AVhEON4sZzX5oolg1_bFzqEQ80Ew5S8D/view?usp=sharing)
- 
-- 📫 How to reach me **uddinmdshihab452@gmail.com**
 
 <!-- <h3 align="center">Connect with me:</h3>
 <p align="center">
