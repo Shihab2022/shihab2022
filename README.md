@@ -85,7 +85,21 @@
 
 
  
+<p><img width="350" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimahammed&show_icons=true&locale=en&layout=compact" alt="fahimahammed" /></p> 
 
+<p>&nbsp;<img width="410" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=fahimahammed&show_icons=true&locale=en" alt="fahimahammed" /></p> 
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=fahimahammed)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+<!-- contribution graph.... -->
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=fahimahammed" alt="fahimahammed" /><p/>
+
+
+<!-- ![GitHub metrics](https://metrics.lecoq.io/fahimahammed)   -->
+
+<p align="center"><img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimahammed" alt="fahimahammed"/> </p>
+<hr>
 
 
  
