@@ -1,30 +1,30 @@
 <h1 align="left">Hi 👋, I'm Md Shihab uddin</h1>
 <!-- <h3 align="center"> I am passionate about building excellent website as if user fell better experience .</h3> -->
 <p>
-👑 I am Web Developer <br> 
+👑 I am Full Stack Web Developer <br> 
 🖊️ Love to write code <br> 
 🎤 Like to learn new technology </p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shihab2022&label=Profile%20views&color=0e75b6&style=flat" alt="shihab2022" /> </p>
 
 <h2>🚀 About Me</h2> 
-<p>I'm front-end developer focused on crafting clean and user friendly experience , I am passionate about building excellent website as if user fell better experience .I have extensive knowledge of HTML5, CSS3, Tailwind, Bootstrap, JavaScript, and React. And I have comfortable with MongoDB, Express Js, Node Js, Redux . I have combined work with us communication and problem-solving skills.In my current role as a Junior Web Developer at HTML5, CSS3, JavaScript, React
-Technologies. I am always  passionate about web development, which led me to pursue a Complete 
-Web Development Course from Programming Hero . Last two months I collaborated on a team project where maintain an official environment. </p>
+<p>I'm full stack developer focused on crafting clean and user friendly experience , I am passionate about building excellent website as if user fell better experience .I have extensive knowledge of  JavaScript, TypeScript ,SQL,Next.js , React ,PostgreSQL ,MongoDB ,Node , Express ,Redux,Material UI , Tailwind etc . I have combined work with us communication and problem-solving skills. Last 1.8+ year I am working on [Sptic](https://www.gospatic.com/) as Software Engineer. </p>
 
 ## 👨‍💻 Skills & Experiance: 
-✅ HTML5 <br> 
-✅ CSS3 <br>
+✅ TypeScript <br> 
 ✅ JavaScript <br>
+✅ SQL <br>
 ✅ React <br>
-✅ Tailwind  <br>
-✅  Bootstrap <br>
+✅ Next.js  <br>
+✅  PostgreSQL <br>
+✅  MongoDB <br>
+✅  Node <br>
 
 
 
 <h2> ⚡ My Work</h2> 
 
-🌱 I’m currently learning **Redux and Express.js**
+🌱 I’m currently learning **Next.js**
 
 👯 Recently I collaborate on [Pioneerflix](https://pioneerflix.firebaseapp.com/)
 
@@ -38,11 +38,8 @@ Web Development Course from Programming Hero . Last two months I collaborated on
 
 <h2 align="center">Overview of uses elements</h3>
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
- </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
