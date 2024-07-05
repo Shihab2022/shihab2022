@@ -50,6 +50,8 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" width="40" height="40"/>
   </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" width="40" height="40"/>
  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" width="40" height="40"/>
   </a>
@@ -62,8 +64,14 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express  " width="40" height="40"/>
   </a>
+   <a href="https://fastify.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png" alt="Fastify" width="40" height="40"/>
+  </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux " width="40" height="40"/>
+  </a>
+   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="NPM" width="40" height="40"/>
   </a>
   <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI " width="40" height="40"/>
