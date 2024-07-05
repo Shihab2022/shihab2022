@@ -88,9 +88,6 @@
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" width="40" height="40"/>
   </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="40" height="40"/>
-  </a>
  </p>
 
 
