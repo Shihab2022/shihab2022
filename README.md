@@ -1,111 +1,178 @@
-<h1 align="left">Hi 👋, I'm Md Shihab uddin</h1>
-<!-- <h3 align="center"> I am passionate about building excellent website as if user fell better experience .</h3> -->
-<p>
-👑 I am Full Stack Web Developer <br> 
-🖊️ Love to write code <br> 
-🎤 Like to learn new technology </p> 
+<h1 align="center">Hi 👋, I'm Md. Shihab Uddin</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shihab2022&label=Profile%20views&color=0e75b6&style=flat" alt="shihab2022" /> </p>
+<h3 align="center">
+Full-Stack Software Engineer | 3.8+ Years of Professional Experience
+</h3>
 
-<h2>🚀 About Me</h2> 
-<p>I'm full stack developer focused on crafting clean and user friendly experience , I am passionate about building excellent website as if user fell better experience .I have extensive knowledge of  JavaScript, TypeScript ,SQL,Next.js , React ,PostgreSQL ,MongoDB ,Node , Express ,Redux,Material UI , Tailwind etc . I have combined work with us communication and problem-solving skills. Last 1.8+ year I am working on Sptic as Software Engineer. </p>
-
-## 👨‍💻 Skills & Experiance: 
-✅ TypeScript <br> 
-✅ JavaScript <br>
-✅ SQL <br>
-✅ React <br>
-✅ Next.js  <br>
-✅  PostgreSQL <br>
-✅  MongoDB <br>
-✅  Node <br>
-
-
-
-<h2> ⚡ My Work</h2> 
-
-🌱 I’m currently learning **Next.js**
-
-👯 Recently I collaborate on [Pioneerflix](https://pioneerflix.firebaseapp.com/)
-
-👨‍💻 All of my projects are available at [Portfolio](https://shihab-uddin-48ccf.web.app/)
-
-📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AVhEON4sZzX5oolg1_bFzqEQ80Ew5S8D/view?usp=sharing)
- 
-📫 How to reach me **uddinmdshihab452@gmail.com**
-
-
-
-<h2 align="center">Overview of Uses elements</h3>
 <p align="center">
- <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="Js" width="40" height="40"/>
-  </a>
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" width="40" height="40"/>
-  </a>
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" width="40" height="40"/>
- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB " width="40" height="40"/>
-  </a>
- <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node" width="40" height="40"/>
-  </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express  " width="40" height="40"/>
-  </a>
-   <a href="https://fastify.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png" alt="Fastify" width="40" height="40"/>
-  </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux " width="40" height="40"/>
-  </a>
-   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="NPM" width="40" height="40"/>
-  </a>
-  <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI " width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind " width="40" height="40"/>
-  </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="40" height="40"/>
-  </a>
- <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="Github" width="40" height="40"/>
-  </a>
- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" width="40" height="40"/>
-  </a>
- </p>
+Building scalable web applications with TypeScript, React, Node.js, Fastify, PostgreSQL, Deck.gl , kepler.gl
+</p>
+
+---
+
+# 🚀 About Me
+
+I am a **Full-Stack Software Engineer** with **3.8+ years of professional experience** building scalable, production-ready web applications.
+
+My expertise lies in designing secure backend architectures, real-time applications, and interactive, high-performance **Geographic Information Systems (GIS)**. I specialize in rendering complex spatial datasets and custom coordinate mapping overlays using the JavaScript/TypeScript ecosystem.
+
+I enjoy solving intricate engineering problems, optimizing application performance, managing robust cloud deployments, and building systems that are reliable, maintainable, and easy to scale.
+
+- 💼 Full-Stack Developer
+- 📍 **GIS Expert:** Advanced coordinate mapping and canvas-based spatial analytics rendering
+- 🌱 Currently learning **System Design, Microservices, Redis, Docker & Kubernetes**
+- 🚀 Passionate about Backend Engineering & Location Intelligence
+- ☁️ Experience deploying applications on **Google Cloud Platform**
+- 💬 Ask me about **Node.js, Fastify, Deck.gl,kepler.gl, Mapbox, PostgreSQL, Socket.io**
+- 📫 Email: **uddinmdshihab452@gmail.com**
+ - 💬 WhatsApp: **+880 1778825868**
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,py" alt="Languages" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,redux" alt="Frontend Stack" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend Stack" />
+</p>
+
+### Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Database Stack" />
+</p>
+
+### Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,gcp" alt="DevOps Stack" />
+</p>
+
+---
+
+## 💬 Real-Time Chat Application
+
+### Tech Stack
+- React | Node.js | Socket.io | PostgreSQL  | Express
+
+### Features
+✅ Real-time messaging  
+✅ Friend request system  
+✅ Online/offline presence  
+✅ Message seen status  
+✅ Typing indicator  
+✅ Authentication  
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Shihab2022/chat-app)
+
+---
+
+## 📍 Location Intelligence Platform
+
+### Tech Stack
+- React | Deck.gl | Mapbox | Fastify | PostgreSQL | Google Cloud
+
+### Features
+✅ Interactive GIS visualization  
+✅ Advanced coordinate mapping  
+✅ Analytics dashboard  
+✅ Automated deployment on GCP  
+✅ High-performance rendering  
+
+---
+
+# 🏗 Architecture Experience
+
+### Backend
+* REST API Development
+* Authentication & Authorization (RBAC, JWT)
+* Payment Gateway Integration
+* Database Schema Design & Optimization
+* API Optimization, Validation, and Logging
+
+### Frontend
+* Responsive UI Architecture
+* Global State Management & Cache Hydration
+* REST/GraphQL API Integration
+* Dashboard Development & Interactive Maps
+
+---
+
+# 📈 Professional Highlights
+
+✔ 3.8+ Years Professional Experience  
+✔ Production-Grade Infrastructure Deployment  
+✔ Scalable REST APIs & Real-Time Engines  
+✔ High-Performance GIS Visualizations  
+
+---
 
 
-<p><img width="350" height="200" align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=shihab2022&show_icons=true&locale=en&layout=compact" alt="shihab2022" /></p>
-<p>&nbsp;<img width="410" height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=shihab2022&show_icons=true&locale=en" alt="shihab2022" /></p>
-<!-- contribution graph.... -->
-<p><img src="https://activity-graph.herokuapp.com/graph?username=shihab2022" alt="shihab2022" /><p/>
-<p align="center"><img width="450" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shihab2022&" alt="shihab2022" /></p>
+# 📊 GitHub Analytics & Insights
 
-
-<h2 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/shihab-uddin-4b6369241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shihab-uddin-4b6369241/" height="25" width="30" /></a>
-<a href="https://www.facebook.com/mdshihab.uddin.92372446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdshihab.uddin.92372446" height="25" width="30" /></a>
- <a href="https://www.facebook.com/mdshihab.uddin.92372446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.facebook.com/mdshihab.uddin.92372446" height="25" width="30" /></a>
-<a href="https://www.linkedin.com/in/shihab-uddin-4b6369241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://linkedin.com/in/https://www.linkedin.com/in/shihab-uddin-4b6369241/" height="25" width="30" /></a>
+  <!-- GitHub Streak Stats (Light Theme) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shihab2022&theme=clean-light&hide_border=true" width="95%" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <!-- Dynamic Contribution Activity Calendar Graph (Forced Pure White Background) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shihab2022&theme=github-light-custom&bg_color=ffffff" width="95%" alt="Contribution Activity Graph" />
 </p>
 
 
+---
 
+# 🌱 Currently Learning
 
+- Microservices Architecture
+- System Design Patterns
+- Advanced Redis Caching & Pub/Sub
+- Production Container Orchestration (Kubernetes)
+- Cloud Infrastructure Ecosystems (AWS)
+
+---
+
+# 🤝 Open to Opportunities
+
+I am currently open to remote engineering roles globally:
+* **Target Roles:** Full-Stack Engineer | Backend Engineer | Node.js Developer | Software Engineer
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shihab2023/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Shihab2022" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="mailto:uddinmdshihab452@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+  <a href="https://shihab-uddin-48ccf.web.app" target="_blank" style="text-decoration:none; margin-left: 10px; font-weight: bold; font-size: 20px; vertical-align: super;">
+    🌐 Portfolio
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shihab2022&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my work, consider starring my repositories.
+</p>
