@@ -25,7 +25,9 @@ I enjoy solving intricate engineering problems, optimizing application performan
 - ☁️ Experience deploying applications on **Google Cloud Platform**
 - 💬 Ask me about **Node.js, Fastify, Deck.gl,kepler.gl, Mapbox, PostgreSQL, Socket.io**
 - 📫 Email: **uddinmdshihab452@gmail.com**
- - 💬 WhatsApp: **+880 1778825868**
+- 💬 WhatsApp: **+880 1778825868**
+- 🌐 Portfolio: **[Portfolio](https://portfolio-one-cyan-gamg1240k3.vercel.app/)**
+- 📄 Resume: **[View Resume](https://drive.google.com/file/d/1fp4fqr4ZxXUUhYDKXK66ZHJNA5VEAX8S/view?usp=drive_link)**
 
 ---
 
@@ -58,6 +60,23 @@ I enjoy solving intricate engineering problems, optimizing application performan
 
 ---
 
+## 🛠️ FixItNow – Service Booking & Payment Platform
+
+### Tech Stack
+- Next.js | TypeScript | Tailwind CSS | Node.js | PostgreSQL
+
+### Features
+✅ Dynamic payment history & real-time financial tracking  
+✅ Pending booking workflow with direct checkout integration  
+✅ Custom printable PDF receipt generation with branding  
+✅ Advanced multi-parameter transaction & service search  
+✅ Technician allocation & skill profile mapping  
+✅ Secure authentication & role-based dashboard access  
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-emerald?style=for-the-badge&logo=vercel)](https://fixitnow-frontend-theta.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Shihab2022/FixItNow-)
+
+
 ## 💬 Real-Time Chat Application
 
 ### Tech Stack
@@ -71,6 +90,7 @@ I enjoy solving intricate engineering problems, optimizing application performan
 ✅ Typing indicator  
 ✅ Authentication  
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-emerald?style=for-the-badge&logo=vercel)](https://chat-app-lyart-nine-78.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Shihab2022/chat-app)
 
 ---
@@ -160,7 +180,7 @@ I am currently open to remote engineering roles globally:
   <a href="mailto:uddinmdshihab452@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-  <a href="https://shihab-uddin-48ccf.web.app" target="_blank" style="text-decoration:none; margin-left: 10px; font-weight: bold; font-size: 20px; vertical-align: super;">
+  <a href="https://portfolio-one-cyan-gamg1240k3.vercel.app/" target="_blank" style="text-decoration:none; margin-left: 10px; font-weight: bold; font-size: 20px; vertical-align: super;">
     🌐 Portfolio
   </a>
 </p>
