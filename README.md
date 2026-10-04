@@ -77,19 +77,19 @@ I enjoy solving intricate engineering problems, optimizing application performan
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Shihab2022/FixItNow-)
 
 
-## 🛠️ SkillGauge – SkillGauge is a B2B and B2C skills platform
+## 🛠️ Skill Gauge – SkillGauge is a B2B and B2C skills platform
 
 ### Tech Stack
 - Next.js | TypeScript | Tailwind CSS | Node.js | Express | Prisma/PostgreSQL
 
 
 ### Features
-✅ __Online compiler / playground__ — JS, TS, Python, SQL, Go, Java, 
-✅ __Proctored AI video interviews__ — camera/mic link  
-✅ __Evaluations__ — auto MCQ scoring, manual written scoring
-✅ __Results & reports__ — rankings, question performance, CSV export, Redis-cached analytic 
-✅ __Payments__ — SSLCommerz credit packages, idempotent verified callbacks
-✅ __Notes & notifications___ — B2C (candidate)
+✅ __Online compiler / playground__ — JS, TS, Python, SQL, Go, Java  
+✅ __Proctored AI video interviews__ — camera/mic link   
+✅ __Evaluations__ — auto MCQ scoring, manual written scoring    
+✅ __Results & reports__ — rankings, question performance, CSV export, Redis-cached analytic    
+✅ __Payments__ — SSLCommerz credit packages, idempotent verified callbacks    
+✅ __Notes & notifications___ — B2C (candidate)      
 
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-emerald?style=for-the-badge&logo=vercel)](https://place-desk-xi.vercel.app/)
