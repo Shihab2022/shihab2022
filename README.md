@@ -77,13 +77,34 @@ I enjoy solving intricate engineering problems, optimizing application performan
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Shihab2022/FixItNow-)
 
 
+## 🛠️ SkillGauge – SkillGauge is a B2B and B2C skills platform
+
+### Tech Stack
+- Next.js | TypeScript | Tailwind CSS | Node.js | Express | Prisma/PostgreSQL
+
+
+### Features
+✅ __Online compiler / playground__ — JS, TS, Python, SQL, Go, Java, 
+✅ __Proctored AI video interviews__ — camera/mic link  
+✅ __Evaluations__ — auto MCQ scoring, manual written scoring
+✅ __Results & reports__ — rankings, question performance, CSV export, Redis-cached analytic 
+✅ __Payments__ — SSLCommerz credit packages, idempotent verified callbacks
+✅ __Notes & notifications___ — B2C (candidate)
+
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-emerald?style=for-the-badge&logo=vercel)](https://place-desk-xi.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Shihab2022/PlaceDesk)
+
+
+
 ## 💬 Real-Time Chat Application
 
 ### Tech Stack
-- React | Node.js | Socket.io | PostgreSQL  | Express
+- React | MUI | Node.js | Socket.io | PostgreSQL  | Express
 
 ### Features
-✅ Real-time messaging  
+✅ 1 to 1 or group real-time messaging  
+✅  1 to 1 or group video calling  
 ✅ Friend request system  
 ✅ Online/offline presence  
 ✅ Message seen status  
@@ -95,18 +116,20 @@ I enjoy solving intricate engineering problems, optimizing application performan
 
 ---
 
-## 📍 Location Intelligence Platform
+## 📍 Place Desk -- Location Intelligence Platform
 
 ### Tech Stack
-- React | Deck.gl | Mapbox | Fastify | PostgreSQL | Google Cloud
+- Next.js | Deck.gl | Mapbox | PostgreSQL 
 
 ### Features
 ✅ Interactive GIS visualization  
+✅ Rendering GIS data on map  
 ✅ Advanced coordinate mapping  
 ✅ Analytics dashboard  
-✅ Automated deployment on GCP  
 ✅ High-performance rendering  
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-emerald?style=for-the-badge&logo=vercel)](https://place-desk-xi.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Shihab2022/PlaceDesk)
 ---
 
 # 🏗 Architecture Experience
@@ -143,17 +166,13 @@ I enjoy solving intricate engineering problems, optimizing application performan
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shihab2022&theme=clean-light&hide_border=true" width="95%" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <!-- Dynamic Contribution Activity Calendar Graph (Forced Pure White Background) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shihab2022&theme=github-light-custom&bg_color=ffffff" width="95%" alt="Contribution Activity Graph" />
-</p>
-
-
 ---
 
 # 🌱 Currently Learning
 
 - Microservices Architecture
+- Learning AI for use in coding
+- Learning python for make strong my backend 
 - System Design Patterns
 - Advanced Redis Caching & Pub/Sub
 - Production Container Orchestration (Kubernetes)
